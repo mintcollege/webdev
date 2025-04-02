@@ -1,0 +1,4 @@
+a {color:orange; text-decoration:none;}
+a:hover {color:green; text-decoration:underline;}
+div:last-child:hover {background:#CCCCCC;}
+p:nth-child(4) {color:red;}

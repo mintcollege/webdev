@@ -1,0 +1,8 @@
+#wrapper {width:1000px; margin:0 auto;}
+#navbar {padding:20px 0;}
+#navbar nav {display:flex; justify-content:space-between; align-items:center;}
+#navbar ul {display:flex; gap:5px;}
+#navbar a {text-decoration:none; font-family: 'Open Sans', sans-serif; font-size:18px; color:#333; display:inline-block; border-radius:5px;}
+#navbar ul a {padding:10px 25px;}
+#navbar ul a:hover {background:#DDD;}
+#navbar a.active {background:#9dc11f!important; color:#FFF; font-weight:bold;}
