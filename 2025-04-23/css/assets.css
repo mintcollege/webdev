@@ -1,0 +1,15 @@
+.color-blue {color:blue;}
+.color-red {color:red;}
+.font-bold {font-weight:bold;}
+
+.button {padding:10px 20px; text-decoration:none; color:#000; display:inline-block;}
+.button:hover {background:#333!important; color:#FFF;}
+.rounded {border-radius:5px;}
+.button-outline {border:2px solid #9dc11f; background:none;}
+.button-primary {background:#9dc11f;}
+.button-secondary {background:#EFAE30;}
+.button-tertiary {background:#999;}
+
+.card {width:300px; padding:20px; border:1px solid #999; margin:50px auto; box-shadow:0 0 10px #CCC;}
+.card h4 {font-size:30px;}
+.card p {color:#999;}
