@@ -1,0 +1,4 @@
+CSS Box Model: 3 properties
+- padding: distance inside (affects width)
+- margin: distance outside
+- border: lines wrapping the content area (affects width)

@@ -1,0 +1,20 @@
+p {margin-bottom:10px;}
+.yellow {background:yellow; padding-top:100px; margin-top:100px;
+    /* border:100px solid #c0233a; */
+    border-left:10px solid #c0233a;
+    text-align:center; /* centers the text */
+    width:850px;    /* target width is: 900px */
+    margin-left:auto; /* centers the content */
+    margin-right:auto; /* centers the content */
+    padding-left:20px;  /* affects the total width */
+    padding-right:20px; /* affects the total width */
+}
+.animebg {height:300px;
+    /*
+    background-image:url(images/thumbnail.webp);
+    background-repeat:no-repeat;
+    background-color:#F59768;
+    background-position:center center;
+     */
+    background:url(images/thumbnail.webp) repeat-x center center #E3C9C9;
+}
