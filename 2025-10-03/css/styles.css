@@ -1,0 +1,13 @@
+body {background:#0F1A36;}
+
+#navbar {width:1000px; margin:0 auto; padding-top:20px;}
+#navbar li {display:inline-block;}
+#navbar li.logo {margin-right:50px;}
+#navbar li.text-link {position:relative; top:-25px; margin-right:10px;}
+#navbar li.text-link a {padding:10px 20px;}
+#navbar a {color:#FFF; font-weight:bold; text-decoration:none;
+    font-family:"Futura Lt BT", Helvetica, Verdana, Arial, sans-serif;}
+
+
+/* Method 2 */
+/* #navbar ul {display:flex;} */
