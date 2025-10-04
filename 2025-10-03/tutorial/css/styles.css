@@ -1,0 +1,16 @@
+html, body {background:#0F1A36;}
+#navbar {width:1000px; margin:30px auto 0 auto;
+    /*
+    margin-top:0;
+    margin-bottom:0;
+    margin-right:auto;
+    margin-left:auto;
+     */
+}
+#navbar a {color:#FFF; font-weight:bold; text-decoration:none;
+    font-family:"Futura Lt BT", Helvetica, Verdana, Arial, sans-serif;}
+#navbar li.logo {margin-right:40px;}
+#navbar li.text-link {position:relative; top:-25px;}
+#navbar li.text-link a {padding:10px 20px;}
+#navbar li.text-link a:hover {background:orange;}
+#navbar li {display:inline-block;}
