@@ -1,0 +1,14 @@
+body {background:#f96;}
+#wrapper {width:1000px; margin:0 auto;}
+#navbar {}
+#navbar ul {display:flex; justify-content:center; align-items:stretch; gap:10px;}
+#navbar li {background:#FFF;}
+#navbar a {background:#5865f2; color:#FFF; display:block; height:50px;}
+
+/* Content area here */
+#content {display:flex;}
+#sidebar {background:#C7E6EC; width:200px;}
+#main {background:#1193C0; flex:1;}
+#main .item {display:flex;}
+#main .pic {width:100px;}
+#main .text {flex:1;}
