@@ -1,0 +1,5 @@
+main {width:1000px; margin:0 auto;}
+.wrapper {display:flex; gap:10px;}
+.col1 {background:orange; flex:1;}
+.col2 {background:green; flex:1;}
+.col3 {background:purple; flex:1;}
