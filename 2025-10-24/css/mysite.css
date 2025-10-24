@@ -1,0 +1,13 @@
+body.about {background:#00C4F4;}
+body.portfolio {background:#A1E53C;}
+
+/*
+ ABOUT PAGE
+*/
+body.about h1 {color:red;}
+
+
+/*
+PORTFOLIO PAGE
+*/
+body.portfolio {}

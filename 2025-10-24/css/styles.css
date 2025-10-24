@@ -1,0 +1,4 @@
+li:nth-child(even) {background:orange;}
+div:not(.foo) {background:green;}
+div:not(.foo):hover {background:yellow;}
+li:not(:first-child) {}

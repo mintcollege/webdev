@@ -1,0 +1,16 @@
+body {font-family:Arial, Helvetica, Verdana, sans-serif;}
+strong {font-weight:bold;}
+.color-gray {color:#999;}
+
+/*
+ Tweets
+ */
+#tweets {width:600px; margin:0 auto;}
+#tweets div.item {display:flex; padding:10px 10px; border-bottom:1px solid #CCC;}
+#tweets div.item:nth-child(even) {background:#EEE;}
+#tweets div.avatar {width:50px; height:50px; background:#823BCB; border-radius:50px; line-height:50px; text-align:center; font-size:30px; color:#FFF;}
+#tweets div.text {flex:1; padding-left:10px;}
+#tweets div.item header {margin-bottom:5px;}
+#tweets div.item footer {margin-top:20px;}
+#tweets div.item ul {display:flex; gap:10px; font-weight:bold;}
+#tweets div.item ul a {text-decoration:none; color:#888;}
